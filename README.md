@@ -1,5 +1,5 @@
 # PengalamanBelajar
-repository ini berisi pengalaman Belajarku di DIcoding
+repository ini berisi pengalaman Belajarku di Dicoding
 
 14 juni 2021
 Belajar kelas Memulai Pemograman Dengan Java. (progres 21%)
